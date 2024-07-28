@@ -21,9 +21,11 @@
     width: 70%;
     height: auto;
 }
-.family{
-    color: black;
+.family_p{
+    color: white;
     text-align: center;
+    background-color: rgb(4, 184, 184);
+    height: 200px;
 }
 .familyImageBox{
     width: 100%;
@@ -122,7 +124,7 @@ table tr:nth-child(even):hover{
  }
 
 
- 
+
 
  
 
